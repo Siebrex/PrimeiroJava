@@ -9,11 +9,11 @@ class MeuProgramaJava
    public static void main (String entrada[ ])   //void significa procedimento, public static      
    {
        //declaraçao de variaveis(tipo primitivo, começa com letra minusculo)
-       int inteiro = 24;
-       char caracter = 'F';
-       double real = 1.55;
-       String frase = "Jade Siebra";
-       boolean VF = true;
+       int inteiro = 24; //inteiros
+       char caracter = 'F'; //caracteres
+       double real = 1.55; //números de pontos flutuantes
+       String frase = "Jade Siebra"; 
+       boolean VF = true; // booleano
   
        if (VF == true)
        { 
